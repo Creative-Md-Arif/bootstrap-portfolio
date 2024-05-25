@@ -1,0 +1,299 @@
+@media (min-width: 1400px){}
+@media (min-width: 1200px) and (max-width: 1399.98px) { }
+@media (min-width: 992px) and (max-width: 1199.98px) { }
+@media (min-width: 768px) and (max-width: 991.98px) { }
+@media (min-width: 576px) and (max-width: 767.98px) {  }
+@media (max-width: 575.98px)  {
+
+    .main-menu ul {
+        gap: 4px;
+    }
+  
+    .main-menu-btn a {
+        padding: 2px 40px;
+       
+    }
+
+    .banner-body {
+        padding: 45px 0;
+    }
+
+    .banner-text h6 {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+
+    .banner-text h4 {
+        font-size: 25px;
+        padding-bottom: 10px;
+        
+    }
+
+    .banner-text h4 span {
+        font-size: 25px;
+    }
+
+    .banner-text p {
+        font-size: 8px;
+        padding-bottom: 10px;
+    }
+
+    .banner-btn a {
+        padding: 9px 9px;
+        font-size: 10px;
+    }
+
+    /*---banner---part---end---*/
+
+    /*---skils--part--strat--*/
+
+  
+
+    #skils {
+        padding: 50px 0;
+    }
+
+    .col-12 {
+        padding-bottom: 30px;
+    }
+
+    .skils-text h6 {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+
+    .skils-text h3 {
+        font-size: 25px;
+        padding-bottom: 50px;
+    }
+
+    .skils-icon {
+        width: 40px;
+        height: 31px;
+        
+    }
+
+    .skils-icon-text h4 {
+        font-size: 20px;
+        padding: 30px 0;
+    }
+
+
+    .skils-icon-text p {
+        font-size: 16px;
+    }
+
+
+    /*---about----section---start--*/
+    .about-content {
+        padding-top: 120px;
+        padding-left: 12px;
+    }
+
+    .about-text h6 {
+        font-size: 16px;
+        padding-bottom: 10px;
+    }
+
+    .about-text h3 {
+        font-size: 25px;
+        padding-bottom: 24px;
+    }
+
+    .about-text p {
+        font-size: 12px;
+    }
+
+    /*----portfolio---section---start--*/
+    .common-hedding h6 {
+        font-size: 13px;
+        padding-bottom: 13px;
+    }
+
+    .common-hedding h3 {
+        font-size: 25px;
+    
+    }
+
+    .portfolio-btn {
+      
+        padding: 9px 7px;
+      
+    }
+
+
+    .portfolio-btn i {
+        font-size: 12px; 
+        gap: 11px;
+    }
+
+    .portfolio-btn i a {
+        font-size: 12px;
+    }
+
+
+    .portfolio-body {
+        padding-top: 55px;
+    }
+    .portfolio-text h5, .portfolio-text-1 h5 {
+        font-size: 25px;
+        padding-bottom: 12px;
+    }
+
+    .portfolio-text p, .portfolio-text-1 p {
+        font-size: 11px;
+        padding-bottom: 1px;
+    }
+
+    .portfolio-text a, .portfolio-text-1 a {
+        font-size: 13px;
+    }
+
+       /*----portfolio---section---end-----*/
+       /*---testimonial--section---start---*/
+        #testimonial {
+            padding: 60px 0 68px;
+        }
+
+        .testimonial-body {
+            padding-top: 60px;
+        }
+
+        .testimonial-text i {
+            font-size: 13px;
+            padding-bottom: 18px;
+        }
+
+        .testimonial-text p {
+            font-size: 11px;
+            padding-bottom: 5px;
+        }
+        /*---testimonial--section---end--*/
+       /*---c0ntact----part---strat------*/
+
+        #contact {
+        padding: 66px 0 66px;
+    }
+
+    .contact-text h6 {
+        font-size: 16px;
+        margin-bottom: 11px;
+    }
+
+    .contact-text h3 {
+        font-size: 36px;
+        padding-bottom: 16px;
+        text-transform: capitalize;
+    }
+
+    .contact-text p {
+        font-size: 16px;
+        padding-bottom: 15px;
+    }
+
+       .contact-btn {
+        padding-bottom: 18px;
+    }
+       .contact-type input {
+        width: 124px;
+        height: 33px;
+    
+    }
+
+
+       .contact-type label {
+       
+        font-size: 11px;
+        padding-top: 10px;
+    }
+
+
+       .choose-btn select {
+        width: 278px;
+        height: 33px;
+    }
+
+       .choose-btn label {
+        font-size: 11px;
+    }
+
+       .massage-box textarea {
+        width: 278px;
+        height: 130px;
+    }
+
+       .massage-box label {
+        font-size: 11px;
+    }
+
+       .acepect-btn {
+        padding-left: 3.50%;
+    }
+
+       .acepect-btn input {
+        width: 15px;
+    }
+
+
+       .acepect-btn label {
+        font-size: 11px;
+      
+    }
+
+       .submit-btn button {
+        padding: 3px 20px;
+    }
+
+    /*----contact-----part----end--*/
+    /*----footer---part--start-----*/
+        .footer-body {
+        display: block;
+        padding-bottom: 4px;
+    }
+
+
+       .footer-menu-list ul {
+        gap: 21px;
+        flex-direction: column;
+        
+    }
+ 
+       .footer-menu-list ul li a{
+        font-size: 21px;
+    }
+        .footer-icon {
+       
+        justify-content: flex-start;
+        flex-direction: row;
+    }
+
+       .footer-end-text p {
+        font-size: 21px;
+      
+    }
+
+       .footer-end {
+        display: block;
+        padding-top: 26px;
+    }
+
+       .footer-end-text {
+        width: 100%;
+        
+    }
+
+       .footer-end-menu {
+        width: 100%;
+    }
+
+
+        .footer-end-menu ul {
+        gap: 14px;
+        flex-direction: column;
+    }
+/*-----footer----part---end----*/
+
+ }
+
+
+
